@@ -8,5 +8,5 @@
 def asda():
     pass
 
-def weishenm()
+def weishenm():
     pass
